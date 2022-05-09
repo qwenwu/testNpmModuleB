@@ -1,2 +1,1 @@
 # testNpmModuleB
-# testNpmModuleC
